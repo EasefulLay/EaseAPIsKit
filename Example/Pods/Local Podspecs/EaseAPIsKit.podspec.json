@@ -1,0 +1,27 @@
+{
+  "name": "EaseAPIsKit",
+  "version": "1",
+  "summary": "A short description of EaseAPIsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EasefulLay/EaseAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiquan563@163.com": "xiquan563@163.com"
+  },
+  "source": {
+    "git": "https://github.com/EasefulLay/EaseAPIsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EaseAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

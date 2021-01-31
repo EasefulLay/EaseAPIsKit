@@ -1,0 +1,6 @@
+framework module EaseAPIsKit {
+  umbrella header "EaseAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
