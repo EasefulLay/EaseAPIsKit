@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EaseAPIsKit'
-  s.version          = '1'
+  s.version          = '1.1'
   s.summary          = 'A short description of EaseAPIsKit.'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'AFNetworking'
+   s.dependency 'AFNetworking' , '3.1.0'
+   s.dependency 'FMDB', '2.7.2'
 end
